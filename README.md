@@ -6,7 +6,7 @@ I'm a Computer Science Engineering student who loves turning ideas into real-wor
 
 ---
 
-### 🌿 About Me
+### About Me
 
 - Computer Science Engineering Student
 - Exploring Artificial Intelligence & Machine Learning
@@ -15,7 +15,7 @@ I'm a Computer Science Engineering student who loves turning ideas into real-wor
 - Building full-stack applications
   
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Languages**
 
@@ -53,7 +53,7 @@ A vintage-inspired Spotify Chrome extension featuring a floating retro turntable
 
 ---
 
-### 🌱 Currently Exploring
+### Currently Exploring
 
 - Designing
 - Artificial Intelligence & Machine Learning
@@ -63,7 +63,7 @@ A vintage-inspired Spotify Chrome extension featuring a floating retro turntable
 
 ---
 
-### 🤎 A Little Philosophy
+###  Work of Art
 
 *“turn every place into your own canvas.”*
 
