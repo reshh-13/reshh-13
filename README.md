@@ -73,6 +73,6 @@ A vintage-inspired Spotify Chrome extension featuring a floating retro turntable
 
 ### Let's Connect!
 
-[GitHub](https://github.com/reshh-13) · [LinkedIn](https://www.linkedin.com/in/reshma-s-522388318/)
+[GitHub](https://github.com/reshh-13) · [LinkedIn](https://www.linkedin.com/in/reshma-s-522388318/) [Portfolio](https://the-reshhh-verse.vercel.app/)
 
 *Code · Create · Explore · Repeat.* ✦
